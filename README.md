@@ -1,6 +1,7 @@
 #  Automatic rotating fan module using AI
 > if you have a fan and install the module, you will use Automatic rotating fan.
 
+**[[Presentation](Presentation)]**
 
  This project is the 2019 1st Semester Converged Capstone Design Project. 
 
@@ -10,7 +11,8 @@
 
 
 
-<iframe width="640" height="360" src="https://youtu.be/c7UqDB0MPdQ" frameborder="0" gesture="media" allowfullscreen=""></iframe>
+[![Video Label](https://img.youtube.com/vi/eMBiMkDRgPI/0.jpg)](https://youtu.be/eMBiMkDRgPI?t=0s) 
+[![Video Label](https://img.youtube.com/vi/c7UqDB0MPdQ/0.jpg)](https://youtu.be/c7UqDB0MPdQ?t=0s) 
 
 
 ## Component
@@ -83,7 +85,7 @@ using [[4.Generate training data ~7. Export inference Graph](https://github.com/
 ![](Image/Training.png)
 
 
-
+[![Video Label](https://img.youtube.com/vi/8JF9aYRYzJ4/0.jpg)](https://youtu.be/8JF9aYRYzJ4?t=0s) 
 
 
 ## How To Use?
@@ -99,7 +101,9 @@ first, Run Object_detection_webcam_server.py.
 
 second, Run Wifi.py.
 
+## Presentation
 
+### 
 
 ## Team members
 
