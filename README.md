@@ -1,3 +1,4 @@
+한글판의 경우 위의 웹사이트에서 확인할 수 있습니다.
 #  Automatic rotating fan module using AI
 > if you have a fan and install the module, you will use Automatic rotating fan.
 
